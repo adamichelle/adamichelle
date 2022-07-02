@@ -1,4 +1,4 @@
-![Readme Banner - adamichelle.github.io, frontend developer, technical writer, HTML, CSS, JavaScript, Mongo DB, React, Vue, Python, Node JS](/banner.png)
+![Readme Banner - adamichelle.github.io, frontend developer, technical writer, HTML, CSS, JavaScript, Mongo DB, React, Vue, Python, Node JS](/assets/banner.png)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adaobi-aniuchi/)
 [![Codepen Badge](https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/adamichelle)
