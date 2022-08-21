@@ -13,7 +13,7 @@ I am Adaobi Aniuchi. I am a frontend developer working in Toronto Canada and a t
 - 🔭 I’m currently working on a playground for Tensorflow.js models
 - 🌱 I’m currently learning extensive testing of front end applications.
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with finding technical writing related devrel jobs.
+- 🤔 I’m open to collaborations on technical writing projects and jobs.
 - 💬 Ask me about any of the projects I have worked on and any frontend related inquiries.
 - 📫 How to reach me: My socials listed at the top of the page.
 - ⚡ Fun fact: I am quite good with handcrafts. I can knit and make beaded accessories.
